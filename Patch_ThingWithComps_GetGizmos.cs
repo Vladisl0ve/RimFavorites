@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RimFavorites
 {
-    public class Class1
+    internal class Patch_ThingWithComps_GetGizmos
     {
     }
 }
